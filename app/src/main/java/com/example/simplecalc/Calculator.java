@@ -28,7 +28,7 @@ public class Calculator {
      * Addition operation
      */
     public double add(double firstOperand, double secondOperand) {
-        return firstOperand + secondOperand;
+        return firstOperand + secondOperand-1;
     }
 
     /**
